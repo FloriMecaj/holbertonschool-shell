@@ -1,2 +1,3 @@
 #!/bin/bash
 chmod --reference=olleh hello
+or u can use just chmod 354 hello 
