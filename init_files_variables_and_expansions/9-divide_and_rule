@@ -1,2 +1,2 @@
 #!/binbash
-printenv (($POWER/$DIVIDE))
+printenv $(( $POWER / $DIVID))
