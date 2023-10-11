@@ -1,2 +1,2 @@
 #!/bin/bash
-decimal_number=$(printf "%d\n" "$((2#$binary_number))")
+echo "$((2#$BINARY))"
